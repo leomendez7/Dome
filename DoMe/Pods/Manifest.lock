@@ -1,0 +1,22 @@
+PODS:
+  - ObjectiveRecord (1.5.0):
+    - ObjectiveSugar
+  - ObjectiveSugar (1.1.0)
+  - SCLAlertView-Objective-C (0.7.1)
+  - SWRevealTableViewCell (0.3.5)
+  - SZTextView (1.2.1)
+
+DEPENDENCIES:
+  - ObjectiveRecord
+  - SCLAlertView-Objective-C
+  - SWRevealTableViewCell
+  - SZTextView
+
+SPEC CHECKSUMS:
+  ObjectiveRecord: f290d17272e476b3c881300910e98284200c54b6
+  ObjectiveSugar: a6a25f23d657c19df0a0b972466d5b5ca9f5295c
+  SCLAlertView-Objective-C: 19edce0d6f9de55316d8b9fe49a9953173a457f7
+  SWRevealTableViewCell: c97ca17df7153f2f130f307ea90399d4b19e4e15
+  SZTextView: 906df45afd3c1b24fc5252088d5ef8061513c238
+
+COCOAPODS: 0.35.0

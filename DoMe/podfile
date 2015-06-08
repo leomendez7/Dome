@@ -1,0 +1,18 @@
+platform :ios, '8.3'
+
+#use_frameworks!
+
+#link_with 'DoMe', 'DoMeWidget'
+
+target 'DoMe' do
+	pod 'ObjectiveRecord'
+	pod 'SCLAlertView-Objective-C'
+	pod 'SWRevealTableViewCell'
+	pod 'SZTextView'
+end
+
+target 'DoMeWidget' do
+        pod 'ObjectiveRecord'
+        pod 'SWRevealTableViewCell'
+end
+
